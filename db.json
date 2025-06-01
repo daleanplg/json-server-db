@@ -43,6 +43,50 @@
       "time": "14:00",
       "petsAllowed": true,
       "organizer": "VetSmart"
+    },
+    {
+      "id": "7acdc0f5-9ae5-4383-89b5-672c82b3f22f",
+      "category": "Health",
+      "title": "Community Wellness Fair",
+      "description": "Free health checkups, fitness demos, and more.",
+      "location": "Wellness Center",
+      "date": "2025-07-20",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Health First"
+    },
+    {
+      "id": "d2e4b062-8617-4fc2-b9c6-ec7b7a9f6cb9",
+      "category": "Youth",
+      "title": "Teen Tech Workshop",
+      "description": "Explore coding, robotics, and digital skills for teens.",
+      "location": "Tech Hub",
+      "date": "2025-08-25",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Future Coders"
+    },
+    {
+      "id": "1d431c8a-3c9e-4a25-846a-0954722a3b5e",
+      "category": "Animal Welfare",
+      "title": "Adopt-a-Pet Day",
+      "description": "Find your new best friend and give a pet a forever home.",
+      "location": "Animal Shelter Grounds",
+      "date": "2025-09-10",
+      "time": "10:30",
+      "petsAllowed": true,
+      "organizer": "Paw Haven"
+    },
+    {
+      "id": "54c6ab15-7772-439f-91f1-3a6b1d8c31e0",
+      "category": "Culture",
+      "title": "Heritage Storytelling Evening",
+      "description": "An evening of folklore, music, and traditional food.",
+      "location": "Cultural Center",
+      "date": "2025-09-30",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Roots Alive"
     }
   ]
 }
