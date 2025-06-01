@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "c8fbbba1-7e6e-4f91-8d9f-5f79e33e1b1f",
+      "category": "Environmental",
+      "title": "Tree Planting Drive",
+      "description": "Join us in planting trees to help green the community.",
+      "location": "Green Park",
+      "date": "2025-06-15",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Eco Warriors"
+    },
+    {
+      "id": "a2cb122c-bb49-4bd2-9e16-746671b90e8e",
+      "category": "Animal Welfare",
+      "title": "Dog Vaccination Camp",
+      "description": "Free vaccinations for dogs. Bring your furry friends!",
+      "location": "Pup Plaza",
+      "date": "2025-07-03",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Healthy Paws"
+    },
+    {
+      "id": "8d57e7e5-e4f3-4038-bf3e-64d723c370c3",
+      "category": "Community",
+      "title": "Neighborhood Cleanup",
+      "description": "Let’s clean up the streets and beautify our neighborhood.",
+      "location": "Central Square",
+      "date": "2025-08-10",
+      "time": "08:30",
+      "petsAllowed": false,
+      "organizer": "Local Heroes"
+    },
+    {
+      "id": "3ed4a1b3-107b-4294-8c1f-1aeea2b4b11f",
+      "category": "Education",
+      "title": "Pet Care Workshop",
+      "description": "Learn how to take better care of your pets.",
+      "location": "Community Hall",
+      "date": "2025-09-02",
+      "time": "14:00",
+      "petsAllowed": true,
+      "organizer": "VetSmart"
+    }
+  ]
+}
