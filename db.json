@@ -1,92 +1,254 @@
 {
-  "events": [
-    {
-      "id": "c8fbbba1-7e6e-4f91-8d9f-5f79e33e1b1f",
-      "category": "Environmental",
-      "title": "Tree Planting Drive",
-      "description": "Join us in planting trees to help green the community.",
-      "location": "Green Park",
-      "date": "2025-06-15",
-      "time": "09:00",
-      "petsAllowed": false,
-      "organizer": "Eco Warriors"
-    },
-    {
-      "id": "a2cb122c-bb49-4bd2-9e16-746671b90e8e",
-      "category": "Animal Welfare",
-      "title": "Dog Vaccination Camp",
-      "description": "Free vaccinations for dogs. Bring your furry friends!",
-      "location": "Pup Plaza",
-      "date": "2025-07-03",
-      "time": "10:00",
-      "petsAllowed": true,
-      "organizer": "Healthy Paws"
-    },
-    {
-      "id": "8d57e7e5-e4f3-4038-bf3e-64d723c370c3",
-      "category": "Community",
-      "title": "Neighborhood Cleanup",
-      "description": "Let’s clean up the streets and beautify our neighborhood.",
-      "location": "Central Square",
-      "date": "2025-08-10",
-      "time": "08:30",
-      "petsAllowed": false,
-      "organizer": "Local Heroes"
-    },
-    {
-      "id": "3ed4a1b3-107b-4294-8c1f-1aeea2b4b11f",
-      "category": "Education",
-      "title": "Pet Care Workshop",
-      "description": "Learn how to take better care of your pets.",
-      "location": "Community Hall",
-      "date": "2025-09-02",
-      "time": "14:00",
-      "petsAllowed": true,
-      "organizer": "VetSmart"
-    },
-    {
-      "id": "7acdc0f5-9ae5-4383-89b5-672c82b3f22f",
-      "category": "Health",
-      "title": "Community Wellness Fair",
-      "description": "Free health checkups, fitness demos, and more.",
-      "location": "Wellness Center",
-      "date": "2025-07-20",
-      "time": "11:00",
-      "petsAllowed": false,
-      "organizer": "Health First"
-    },
-    {
-      "id": "d2e4b062-8617-4fc2-b9c6-ec7b7a9f6cb9",
-      "category": "Youth",
-      "title": "Teen Tech Workshop",
-      "description": "Explore coding, robotics, and digital skills for teens.",
-      "location": "Tech Hub",
-      "date": "2025-08-25",
-      "time": "13:00",
-      "petsAllowed": false,
-      "organizer": "Future Coders"
-    },
-    {
-      "id": "1d431c8a-3c9e-4a25-846a-0954722a3b5e",
-      "category": "Animal Welfare",
-      "title": "Adopt-a-Pet Day",
-      "description": "Find your new best friend and give a pet a forever home.",
-      "location": "Animal Shelter Grounds",
-      "date": "2025-09-10",
-      "time": "10:30",
-      "petsAllowed": true,
-      "organizer": "Paw Haven"
-    },
-    {
-      "id": "54c6ab15-7772-439f-91f1-3a6b1d8c31e0",
-      "category": "Culture",
-      "title": "Heritage Storytelling Evening",
-      "description": "An evening of folklore, music, and traditional food.",
-      "location": "Cultural Center",
-      "date": "2025-09-30",
-      "time": "18:00",
-      "petsAllowed": false,
-      "organizer": "Roots Alive"
-    }
-  ]
+  "events": 
+  [
+  {
+    "title": "Fun Run 5K",
+    "location": "Riverdale Center",
+    "date": "2025-10-12",
+    "time": "12:00",
+    "petsAllowed": false,
+    "organizer": "CodeForward"
+  },
+  {
+    "title": "Recycling Workshop",
+    "location": "Greenwood Hall",
+    "date": "2025-08-12",
+    "time": "11:00",
+    "petsAllowed": true,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Recycling Workshop",
+    "location": "Central Park",
+    "date": "2025-11-26",
+    "time": "13:00",
+    "petsAllowed": false,
+    "organizer": "Local Heroes"
+  },
+  {
+    "title": "Family Game Night",
+    "location": "Central Park",
+    "date": "2025-06-06",
+    "time": "12:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  },
+  {
+    "title": "Free Health Checkup",
+    "location": "Riverdale Center",
+    "date": "2025-08-29",
+    "time": "17:00",
+    "petsAllowed": true,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Pet Care Workshop",
+    "location": "Riverdale Center",
+    "date": "2025-07-17",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organizer": "CodeForward"
+  },
+  {
+    "title": "Pet Care Workshop",
+    "location": "Downtown Plaza",
+    "date": "2025-08-19",
+    "time": "12:00",
+    "petsAllowed": false,
+    "organizer": "Local Heroes"
+  },
+  {
+    "title": "Financial Literacy Seminar",
+    "location": "Riverdale Center",
+    "date": "2025-08-23",
+    "time": "17:00",
+    "petsAllowed": true,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Community Blood Drive",
+    "location": "Downtown Plaza",
+    "date": "2025-12-23",
+    "time": "13:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Pet Adoption Day",
+    "location": "Riverdale Center",
+    "date": "2025-12-11",
+    "time": "12:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  },
+  {
+    "title": "Tech for Seniors",
+    "location": "Greenwood Hall",
+    "date": "2025-12-17",
+    "time": "17:00",
+    "petsAllowed": true,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Family Game Night",
+    "location": "Riverdale Center",
+    "date": "2025-09-13",
+    "time": "17:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Pet Vaccination Drive",
+    "location": "Riverdale Center",
+    "date": "2025-10-28",
+    "time": "10:00",
+    "petsAllowed": false,
+    "organizer": "CodeForward"
+  },
+  {
+    "title": "Dog Training Basics",
+    "location": "Central Park",
+    "date": "2025-06-21",
+    "time": "15:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  },
+  {
+    "title": "Free Health Checkup",
+    "location": "Greenwood Hall",
+    "date": "2025-08-04",
+    "time": "12:00",
+    "petsAllowed": false,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Recycling Workshop",
+    "location": "Downtown Plaza",
+    "date": "2025-07-26",
+    "time": "10:00",
+    "petsAllowed": false,
+    "organizer": "Local Heroes"
+  },
+  {
+    "title": "Community Cleanup",
+    "location": "Central Park",
+    "date": "2025-10-16",
+    "time": "14:00",
+    "petsAllowed": false,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Dog Training Basics",
+    "location": "Central Park",
+    "date": "2025-09-12",
+    "time": "17:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  },
+  {
+    "title": "Family Movie Night",
+    "location": "Downtown Plaza",
+    "date": "2025-08-03",
+    "time": "18:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Financial Literacy Seminar",
+    "location": "Central Park",
+    "date": "2025-12-25",
+    "time": "14:00",
+    "petsAllowed": true,
+    "organizer": "Local Heroes"
+  },
+  {
+    "title": "Pet Vaccination Drive",
+    "location": "Greenwood Hall",
+    "date": "2025-10-17",
+    "time": "13:00",
+    "petsAllowed": false,
+    "organizer": "CodeForward"
+  },
+  {
+    "title": "Free Yoga Class",
+    "location": "Greenwood Hall",
+    "date": "2025-07-26",
+    "time": "14:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Community Blood Drive",
+    "location": "Riverdale Center",
+    "date": "2025-08-25",
+    "time": "11:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Pet Adoption Day",
+    "location": "Central Park",
+    "date": "2025-09-11",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  },
+  {
+    "title": "Tech for Seniors",
+    "location": "Central Park",
+    "date": "2025-08-16",
+    "time": "14:00",
+    "petsAllowed": false,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Fun Run 5K",
+    "location": "Downtown Plaza",
+    "date": "2025-12-22",
+    "time": "15:00",
+    "petsAllowed": true,
+    "organizer": "CodeForward"
+  },
+  {
+    "title": "Free Yoga Class",
+    "location": "Greenwood Hall",
+    "date": "2025-09-30",
+    "time": "10:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Community Cleanup",
+    "location": "Greenwood Hall",
+    "date": "2025-08-06",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Family Movie Night",
+    "location": "Riverdale Center",
+    "date": "2025-08-16",
+    "time": "14:00",
+    "petsAllowed": false,
+    "organizer": "Healthy Paws"
+  },
+  {
+    "title": "Tech for Seniors",
+    "location": "Downtown Plaza",
+    "date": "2025-08-18",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Dog Training Basics",
+    "location": "Greenwood Hall",
+    "date": "2025-09-10",
+    "time": "13:00",
+    "petsAllowed": true,
+    "organizer": "VetSmart"
+  }
+]
+
 }
